@@ -48,6 +48,18 @@ The shared file does not retain personal data after your session ends
 SafeSpend is intended for quick, single-session financial analysis, not long-term data storage. Resetting the data at the end of the session protects your privacy and keeps the shared environment clean.
 By continuing, you understand how the app works and agree to reset your data when you’re done.
 
+* What if a user forgets to reset their data?
+
+Even if someone forgets to clear their entries:
+
+No personal identification data is ever collected or stored
+
+No names, emails, IP addresses, or login credentials are saved
+
+Nothing in the CSV can be linked back to a specific individual
+
+All sessions remain anonymous, and any financial information left behind is not traceable to any user. The only data stored is basic numerical budget information (income, expenses, savings, debt), with no personal identifiers attached.
+
 * Our Goal
 
 To give you a simple, intuitive way to get quick, AI-generated financial guidance without any complicated setup — just transparent, friendly use.
