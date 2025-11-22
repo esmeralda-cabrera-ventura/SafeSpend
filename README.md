@@ -4,7 +4,7 @@ Please read carefully before using the app.
 
 * Friendly Transparency and Disclaimer Notice – Please Read
 
-This application was designed, built and deployed by James Cao, Esmeralda C. Cabrera Ventura and Tristan Stovall and it is designed to be used by individuals and in one-time/single sessions only. You may temporarily save your data of several months to generate financial trends graphs, but must reset all data before ending a session. This app is not designed for organizational use. Please click on the URL shared above to explore this web app and play with it. We hope you enjoy engaging with our app. 
+This application was designed, built and deployed by James Cao, Esmeralda C. Cabrera Ventura and Tristan Stovall and it is designed to be used by individuals and in one-time/single sessions only. You may temporarily save your data of several months to generate financial trends graphs, but must reset all data before ending a session. This app is not designed for organizational use. You may click the URL link shared below to explore this web app and play with it. We hope you enjoy engaging with our app. 
 
 SafeSpend AI Money Coach is a simple learning project built to demonstrate how Streamlit apps, CSV storage, and GPT-4 can work together to give quick, personalized financial tips. It’s meant to be lightweight, fun, and used for short, single-session financial check-ins, not as a full-scale financial software tool.
 
