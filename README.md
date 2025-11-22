@@ -84,4 +84,4 @@ OpenAI GPT-4
 
 Matplotlib (via Streamlit charting)
 
-Note: This application was designed and built by James Cao, Esmeralda C. Cabrera Ventura and Tristan Stovall and it is designed to be used by individuals only. It is not designed for organizational use. Please click on the URL shared above to explore this web app and play with it. We hope you enjoy engaging with our app. 
+Note: This application was designed, built and deployed by James Cao, Esmeralda C. Cabrera Ventura and Tristan Stovall and it is designed to be used by individuals only. It is not designed for organizational use. Please click on the URL shared above to explore this web app and play with it. We hope you enjoy engaging with our app. 
