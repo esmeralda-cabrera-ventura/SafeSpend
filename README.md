@@ -1,3 +1,31 @@
+***Attention***
+
+Please read carefully before using the app. 
+
+* Friendly Transparency and Disclaimer Notice – Please Read
+
+This application was designed, built and deployed by James Cao, Esmeralda C. Cabrera Ventura and Tristan Stovall and it is designed to be used by individuals and in one-time/single sessions only. You may temporarily save your data of several months to generate financial trends graphs, but must reset all data before ending a session. This app is not designed for organizational use. Please click on the URL shared above to explore this web app and play with it. We hope you enjoy engaging with our app. 
+
+SafeSpend AI Money Coach is a simple learning project built to demonstrate how Streamlit apps, CSV storage, and GPT-4 can work together to give quick, personalized financial tips. It’s meant to be lightweight, fun, and used for short, single-session financial check-ins, not as a full-scale financial software tool.
+
+To keep the app easy to use, SafeSpend stores information in a temporary shared file behind the scenes. This helps the app remember your inputs during your session, but it also means data isn’t tied to individual accounts.
+
+To keep your information private, we recommend using SafeSpend for quick financial snapshots, and then simply pressing the “Reset Data” button before closing the app. This clears your entries and keeps your information from being accessible to others who might use the link later.
+
+* Why We Mention This
+
+We want to be open about how the app works so you can use it comfortably and confidently. Since this project was designed for personal education and experimentation, it doesn’t include features like logins or private storage. As long as you reset your data at the end of your session, your information stays private and won’t remain in the shared file.
+
+* Your Part (Simple + Quick)
+
+Before exiting your session, just press “Reset Data.”
+That’s it — and nothing is stored afterward.
+
+By continuing, you understand how the app works and agree to reset your data when you’re done.
+
+* Our Goal
+
+To give you a simple, intuitive way to get quick, AI-generated financial guidance without any complicated setup — just transparent, friendly use.
 Web based product - Link is below
 
 https://safespend-gjwg7qt47fcwuzszcft9kk.streamlit.app/
@@ -69,10 +97,6 @@ Reset data entirely using the "Reset Data" button
 
 Continue using the app over time to track monthly trends
 
-
-
-
-
 Technologies Used
 Python 3.8+
 
@@ -84,4 +108,4 @@ OpenAI GPT-4
 
 Matplotlib (via Streamlit charting)
 
-Note: This application was designed, built and deployed by James Cao, Esmeralda C. Cabrera Ventura and Tristan Stovall and it is designed to be used by individuals only. It is not designed for organizational use. Please click on the URL shared above to explore this web app and play with it. We hope you enjoy engaging with our app. 
+
